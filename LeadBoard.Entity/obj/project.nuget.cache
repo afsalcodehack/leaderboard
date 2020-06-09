@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GX26ST9fhnUe1wQXNm+ELWncBl258SPbeuiIZBfNtioJT1cik+ng+kVOTthUYC+M/kGx88Wa7XqyJBiez8J8Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\futechz\\source\\repos\\LeadBoard\\LeadBoard.Entity\\LeadBoard.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\futechz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

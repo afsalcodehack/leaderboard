@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<efcore namespace="LoadBoard_Data" p1:name="LoadBoardModel" p1:Guid="33497881-84d5-4497-a35e-3179a9d02da2" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
+  <class name="Game" entity-set="Games" table="Game" schema="dbo" p1:Guid="6acf696f-c2a4-42f1-887a-dc4b24687860">
+    <id name="Id" type="Int32" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="a4587c90-4900-45c6-b691-7eaff2ffae62">
+      <column name="Id" not-null="True" precision="10" scale="0" sql-type="int" p1:unicode="False" />
+    </id>
+    <property name="GameName" type="String" p1:nullable="True" p1:ValidateMaxLength="250" p1:ValidateRequired="false" p1:Guid="7d899f20-b9df-4220-a831-828aa591cfe7">
+      <column name="GameName" not-null="False" length="250" sql-type="varchar" p1:unicode="False" />
+    </property>
+  </class>
+  <class name="Score" entity-set="Scores" table="Score" schema="dbo" p1:Guid="fb332b12-1ca9-45a2-a6d9-13d7c04be3a1">
+    <id name="Id" type="Int32" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="431e231f-0abb-49c1-a355-ba0e1af385d9">
+      <column name="Id" not-null="True" precision="10" scale="0" sql-type="int" p1:unicode="False" />
+    </id>
+    <property name="GameId" type="Int32" p1:nullable="True" p1:ValidateRequired="false" p1:Guid="b28566a1-8301-4f84-9276-57ec1da2a855">
+      <column name="GameId" not-null="False" precision="10" scale="0" sql-type="int" p1:unicode="False" />
+    </property>
+    <property name="UserId" type="Int32" p1:nullable="True" p1:ValidateRequired="false" p1:Guid="f099e3b0-58e2-46fa-b255-3a17004c2d46">
+      <column name="UserId" not-null="False" precision="10" scale="0" sql-type="int" p1:unicode="False" />
+    </property>
+    <property name="Score1" type="Double" p1:nullable="True" p1:ValidateRequired="false" p1:Guid="d3842a38-beeb-4611-8d6a-21e9ddfe1bdd">
+      <column name="Score" not-null="False" precision="53" sql-type="float" p1:unicode="False" />
+    </property>
+    <property name="Date" type="DateTime" p1:nullable="True" p1:ValidateRequired="false" p1:Guid="63b2af3d-ff1e-460e-b3e6-d381a4caaa98">
+      <column name="Date" not-null="False" sql-type="datetime" p1:unicode="False" />
+    </property>
+  </class>
+  <class name="User" entity-set="Users" table="Users" schema="dbo" p1:Guid="ed59db3a-39e7-4f78-96ee-93ba5b085a0f">
+    <id name="UserId" type="Int32" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="de28e177-03aa-439f-a3ca-7b8f17a71913">
+      <column name="UserId" not-null="True" precision="10" scale="0" sql-type="int" p1:unicode="False" />
+    </id>
+    <property name="UserName" type="String" p1:nullable="True" p1:ValidateMaxLength="200" p1:ValidateRequired="false" p1:Guid="85f3ca48-b170-481b-bcd6-816c2065ee00">
+      <column name="UserName" not-null="False" length="200" sql-type="varchar" p1:unicode="False" />
+    </property>
+  </class>
+</efcore>

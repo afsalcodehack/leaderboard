@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+}
+
+
+mat-form-field{
+    margin-right: 25px
+}
+
+.filter-game {
+    margin-left: 60px;
+}

@@ -1,0 +1,19 @@
+
+
+  <mat-card>
+    <form class="example-form">
+      <mat-form-field class="example-full-width">
+        <mat-label>Game</mat-label>
+        <input name="game" [(ngModel)]="game.gameName" matInput placeholder="Game Name">
+      </mat-form-field>
+
+      <button (click)="saveGame()" mat-raised-button color="primary">Save</button>
+    </form>
+
+    <mat-selection-list #shoes >
+      <mat-list-option *ngFor="let item of gameSource">
+        {{item.gameName}}
+      </mat-list-option>
+    </mat-selection-list>
+
+  </mat-card>

@@ -1,0 +1,9 @@
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\bin\Debug\netcoreapp3.1\LeadBoard.Entity.deps.json
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\bin\Debug\netcoreapp3.1\LeadBoard.Entity.dll
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\bin\Debug\netcoreapp3.1\LeadBoard.Entity.pdb
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.csprojAssemblyReference.cache
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.AssemblyInfoInputs.cache
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.AssemblyInfo.cs
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.csproj.CoreCompileInputs.cache
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.dll
+C:\Users\futechz\source\repos\LeadBoard\LeadBoard.Entity\obj\Debug\netcoreapp3.1\LeadBoard.Entity.pdb

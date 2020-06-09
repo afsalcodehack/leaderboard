@@ -1,0 +1,10 @@
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\bin\Debug\netcoreapp3.1\LoadBoard.Data.dll.config
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\bin\Debug\netcoreapp3.1\LoadBoard.Data.deps.json
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\bin\Debug\netcoreapp3.1\LoadBoard.Data.dll
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.csprojAssemblyReference.cache
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.AssemblyInfoInputs.cache
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.AssemblyInfo.cs
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\bin\Debug\netcoreapp3.1\LoadBoard.Data.pdb
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.dll
+C:\Users\futechz\source\repos\LeadBoard\LoadBoard.Data\obj\Debug\netcoreapp3.1\LoadBoard.Data.pdb

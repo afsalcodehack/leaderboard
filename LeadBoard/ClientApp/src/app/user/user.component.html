@@ -1,0 +1,19 @@
+
+
+<mat-card>
+  <form class="example-form">
+    <mat-form-field class="example-full-width">
+      <mat-label>User</mat-label>
+      <input name="user" [(ngModel)]="user.userName" matInput placeholder="user Name">
+    </mat-form-field>
+
+    <button (click)="saveUser()" mat-raised-button color="primary">Save</button>
+  </form>
+
+  <mat-selection-list #shoes>
+    <mat-list-option *ngFor="let item of userSource">
+      {{item.userName}}
+    </mat-list-option>
+  </mat-selection-list>
+
+</mat-card>
